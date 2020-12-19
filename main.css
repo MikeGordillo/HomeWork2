@@ -1,9 +1,40 @@
-.navbar-brand{
-    font-size: 3em;
-    background-color: teal;
+.navbar-brand {
+    font-size: 2em;
+    background-color:  rgb(30, 163, 163);
+    
 }
 
-.my-navbar{
+.my-navbar {
     padding-left: 3%;
     padding-right: 3%;
 }
+.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .button {
+      font-size:30px;
+
+  }
+  
+  .my-navbar {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
+  img {
+    float: left;
+    margin-top: -60px;
+  }
+
+  p {
+    margin-top: 60px;
+
+  }
+
+  .container h1 {
+      font-size: 60px;
+      text-align: right;
+      font-family: "Times New Roman", Times, serif;
+    }
+  
