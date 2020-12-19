@@ -1,0 +1,9 @@
+.navbar-brand{
+    font-size: 3em;
+    background-color: teal;
+}
+
+.my-navbar{
+    padding-left: 3%;
+    padding-right: 3%;
+}
