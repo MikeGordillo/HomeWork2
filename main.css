@@ -32,9 +32,8 @@
 
   }
 
-  .container h1 {
-      font-size: 60px;
-      text-align: right;
-      font-family: "Times New Roman", Times, serif;
-    }
-  
+  .container{
+    width:889px;
+    height:889px;
+
+  }
