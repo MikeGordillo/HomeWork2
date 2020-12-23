@@ -39,10 +39,11 @@ Wrote some personal info, along woth personal pictues.
 Navagation Bar was consistent on all three.
 Used Bootstrap components grid system.
 
-![alt text](./Assets/2020-12-22(3).png "About")
-![alt text](./Assets/2020-12-22(2).png "About")
-![alt text](./Assets/2020-12-22(5).png "About")
+![](./Assets/2020-12-22(3).png "About")
+![](./Assets/2020-12-22(2).png "Porfolio")
+![](./Assets/2020-12-22(5).png "Contact")
 https://github.com/MikeGordillo/HomeWork2
+https://mikegordillo.github.io/HomeWork2/
 
 
 
