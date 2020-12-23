@@ -37,6 +37,7 @@ I made a responsive web app with three pages and all the links to each page are 
 The three pages are responsive and use semantic elements in the Html. 
 Wrote some personal info, along woth personal pictues.
 Navagation Bar was consistent on all three.
+Added my github link to the footer.
 Used Bootstrap components grid system.
 
 ![](./Assets/2020-12-22(3).png "About")
